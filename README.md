@@ -1,1 +1,2 @@
-# iot_education
+# IoT Education
+Yigit Ceviker
